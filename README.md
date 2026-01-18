@@ -2,7 +2,7 @@
 
 Sistema de gestión hotelera moderna, construido con **Clean Architecture** y **Diseño Premium**.
 
-![Dashboard Preview](frontend/public/dashboard-preview.png)
+![Dashboard Preview](docs/screenshots/dashboard.png)
 
 ## 🚀 Inicio Rápido (Quick Start)
 
