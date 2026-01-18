@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+[Oo]bj/
+[Bb]in/
+.idea/
+
+# Dotnet
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.launchSettings.json
+
+# OS
+.DS_Store
+Thumbs.db
